@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio 관련 파일 및 폴더 제외
+.vs/
+*.vsidx
